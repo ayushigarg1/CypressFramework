@@ -1,0 +1,12 @@
+{
+    "login": {
+        "email": "hello@yopmail.com",
+        "password": "Ayushi123"
+    },
+    "product": {
+        "productName": "Mac"
+    },
+    "message": {
+        "successMessage": "Success: You have added iMac to your shopping cart!"
+    }
+}
